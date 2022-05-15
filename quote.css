@@ -1,0 +1,26 @@
+@charset "utf-8";
+html {
+    background-color: bisque;
+    font-family: 'Courier New', monospace;
+}
+
+canvas {
+    border: 10px solid black;
+    border-radius: 25px;
+    margin-left: 35.5vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+p + p{
+    text-align: center;}
+
+button {
+    margin-left: 45.5vw;
+}
